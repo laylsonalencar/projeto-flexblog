@@ -1,8 +1,4 @@
 # projeto-flexblog
-# FlexBlog
-
-![GitHub repo size](https://img.shields.io/github/repo-size/laylson-as/FlexBlog?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/laylson-as/FlexBlog?style=for-the-badge)
 
 <img src="./assets/img/flexblog.PNG" alt="exemplo imagem">
 
